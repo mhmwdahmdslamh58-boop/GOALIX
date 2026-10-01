@@ -1,0 +1,6 @@
+{
+  "name": "Black Screen",
+  "description": "شاشة سوداء كاملة النقاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
